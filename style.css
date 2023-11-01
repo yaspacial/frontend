@@ -13,3 +13,16 @@
     font-weight: bolder;
 
 }
+
+.logo{
+
+}
+
+.propaganda{
+    height: 500px;
+    background-color: black;
+    background: url("foto\ 1.webp");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
